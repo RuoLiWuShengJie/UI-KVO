@@ -40,6 +40,7 @@
 
 @implementation ViewController
 // 杨波
+//真二
 - (void)viewDidLoad {
     [super viewDidLoad];
    self.view.backgroundColor = [UIColor orangeColor];
